@@ -4,9 +4,11 @@ Khorjin - An IEC 61850-90-5 Gateway for Synchrophasor Data Transfer with support
 This repository will be used to host the source and builds of the Khorjin library, which has been described in the references below.
 
 ## Release status
-We hope to release Khorjin sometime during 2017. We are in the process of preparing a "Software X" journal paper to document the software, and in this process, we are clening it up for release.
+We hope to release Khorjin sometime *during 2017*. 
 
-Currently, we are lacking resources to finish up the preparation process to release the code, so if you want to help, please contact luigiv@kth.se  
+We are in the process of preparing a "Software X" journal paper to document the software, and in this process, we are clening it up for release. 
+
+However, currently, we are lacking resources to finish up the preparation process to release the code, so if you want to help, please contact: luigiv@kth.se and/or srfi@kth.se
 
 ## References/Documentation
 Details about Khorjin can be found in the "Reference"-folder:
