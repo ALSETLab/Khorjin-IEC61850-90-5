@@ -11,7 +11,7 @@ We are in the process of preparing a "Software X" journal paper to document the 
 However, currently, we are lacking resources to finish up the preparation process to release the code, so if you want to help, please contact: luigiv@kth.se and/or srfi@kth.se
 
 ## References/Documentation
-Details about Khorjin can be found in the "Reference"-folder:
+Details about Khorjin can be found in the references available in this repository. See the list below:
 
 [2017_Journal.pdf](https://github.com/SmarTS-Lab-Parapluie/Khorjin-IEC61850-90-5/blob/master/Ref_2017_KhorinJournal.pdf): "Interpreting and implementing IEC 61850-90-5 Routed-Sampled Value and Routed-GOOSE protocols for IEEE C37.118.2 compliant wide-area synchrophasor data transfer," the pre-print of the published journal paper describing Khorjin library in full detail.
 
