@@ -3,16 +3,18 @@ Khorjin - An IEC 61850-90-5 Gateway for Synchrophasor Data Transfer with support
 
 This repository will be used to host the source and builds of the Khorjin library, which has been described in the references below.
 
-Because the original source code of Khorin did not include provisioning for security, a new version is under development as of Fall 2018 that can provide such features.
+Because the original source code of Khorin did not include provisioning for security, a new version was under development as of Fall 2018, however, the effort had to stop due to funding difficulties.
 
-Original source of the prior version will be also released, but no support will be available.
+There are no current development plans for the release of Khorjin.
 
 ## Release status
-We hope to release Khorjin sometime in the future. Unfotunately, there have been many set-backs to find the opportunity to prioritize this work due to different constraints. As of February 2021, it there has not been any additional progress on this work.
+We hope to release Khorjin sometime in the future. Unfotunately, there have been many set-backs to find the opportunity to prioritize this work due to different constraints. As of May 2022, it there has not been any additional progress on this work.
 
 Our original intent is still to prepare a "Software X" journal paper to document the software, and in this process, we will try to clen it up for release. 
 
-Development is currently being lead by Mohammed Ilies Ayachi of KAUST and Luigi Vanfretti of RPI, please contact: mohammed.ayachi@kaust.edu.sa or luigi.vanfretti@gmail.com.
+Development is currently being lead by Luigi Vanfretti of RPI, please contact: luigi.vanfretti@gmail.com.
+
+Many people has reached out asking for the code, but without commiting neither time or resources. Unless you are prepared to either work for free to help with the open-source release or can fund the effort, you will not be provided access to the repositories with the source code. The software is not free as in ``free beer'' but as in ``free puppy'', it needs people to take care of it, and won't be let out to play until its been showered and de-wormed.
 
 ## References/Documentation
 Details about Khorjin can be found in the references available in this repository. See the list below:
